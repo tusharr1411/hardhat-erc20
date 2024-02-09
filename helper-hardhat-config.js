@@ -8,7 +8,7 @@ const networkConfig = {
         ethUsdPriceFeed: "0x694AA1769357215DE4FAC081bf1f309aDC325306",
     },
 };
-const INITIAL_SUPPLY = "1000000000000000000000000"; //10,000,000*1e18
+const INITIAL_SUPPLY = "1000000000000000000000000"; //1,0000,000*1e18
 
 const developmentChains = ["hardhat", "localhost"];
 
